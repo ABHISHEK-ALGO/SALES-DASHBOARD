@@ -5,7 +5,7 @@ To uncover hidden sales insights and trends for the sales team, enabling better 
 
 **Stakeholders Involved :**
 
-- Marketing Team
+- Marketing 
 - Customer Service Team
 - Data & Analytics Team (Outsource)
 - IT
